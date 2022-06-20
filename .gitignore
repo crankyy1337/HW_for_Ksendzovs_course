@@ -1,0 +1,5 @@
+*.*
+!*homework*_result*.*
+Lesson2_Git_basics/lesson2_git_JSON/*.json
+Lesson2_Git_basics/lesson2_git_TXT/*.txt
+Lesson2_Git_basics/lesson2_git_XML/*.xml
