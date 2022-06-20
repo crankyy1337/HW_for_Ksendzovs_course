@@ -1,0 +1,18 @@
+<Bug_report>
+  <Summary>Это название (тема) бага</Summary>
+  <Project>Курсы Вадима Ксендзова</Project>
+  <Description>
+    <Environment>Среда обнаружения (окружение)</Environment>
+    <Steps>
+      <Step1>Шаг 1</Step1>
+      <Step2>Шаг 2</Step2>
+      <Step3>Шаг 3</Step3>
+    </Steps>
+    <Expected_result>Ожидаемый результат</Expected_result>
+    <Actual_result>Фактический результат</Actual_result>
+  </Description>
+  <Component>Компонент приложения, в котором найден баг</Component>
+  <Version>Версия, которую затрагивает баг</Version>
+  <Severity>Важность</Severity>
+  <Priority>Приоритет</Priority>
+</Bug_report>

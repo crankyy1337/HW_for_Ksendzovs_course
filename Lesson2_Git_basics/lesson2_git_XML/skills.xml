@@ -1,0 +1,7 @@
+<string-array name="Skills">
+	<skill>terminal</skill>
+	<skill>bash</skill>
+	<skill>postman</skill>
+	<skill>js_basics</skill>
+	<skill>etc</skill>
+</string-array>
