@@ -1,0 +1,60 @@
+1) Прочитать про клиент-серверную архитектуру
+
+done
+
+2) Что ткое HTTP и HTTPS
+
+https://habr.com/ru/post/593507/
+https://selectel.ru/blog/http-https/
+
+3) HTTP методы
+
+https://habr.com/ru/company/yandex/blog/265569/
+
+4) HTTP статус коды сервера
+
+https://developer.mozilla.org/ru/docs/Web/HTTP/Status
+
+5) Что такое ядро браузера 
+
+https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B6%D0%BE%D0%BA
+
+6) Какие браузеры какиие ядра используют
+
+https://www.ph4.ru/browser_engines.php
+
+7) Что такое API
+
+https://habr.com/ru/post/464261/
+
+8. Что такое ендпоинты
+
+https://wp-kama.ru/handbook/rest/basic#routes-endpoints
+
+9) URL (URI, URL, URN)
+
+
+10) Идемпотентные HTTP методы
+
+https://developer.mozilla.org/ru/docs/Glossary/Idempotent
+https://restapitutorial.ru/lessons/idempotency.html
+
+11) Безопасные HTTP методы
+
+https://developer.mozilla.org/ru/docs/Glossary/safe
+https://restapitutorial.ru/lessons/idempotency.html
+
+12) Иденфикация, Аутентификация, Авторизация
+
+https://www.kaspersky.ru/blog/identification-authentication-authorization-difference/29123/
+http://security.mosmetod.ru/paroli/192-identifikatsiya-autentifikatsiya-i-avtorizatsiya-v-chem-raznitsa
+
+13) Что такое IP
+14) Что такое октаты в DNS
+15) Что такое порт, сколько портов у Linux сервера
+16) Уровни OSI
+
+https://selectel.ru/blog/osi-for-beginners/
+https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_OSI
+
+17) Хедеры http запросов
